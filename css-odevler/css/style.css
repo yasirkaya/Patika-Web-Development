@@ -1,0 +1,27 @@
+.navigasyon {
+    list-style-type: none; 
+    display: flex; 
+}
+.margin-right-30 {
+    margin-right: 30px;
+}
+.margin-left-40y {
+    margin-left: 40%;
+}
+.text-center{
+    text-align: center;
+}
+
+h1 {
+    color: red;
+}
+h2 {
+    color: blueviolet;
+}
+h3 {
+    color: chocolate;
+}
+.urunArticle{
+    display: flex; 
+    width: 300px;
+}
