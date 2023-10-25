@@ -1,0 +1,54 @@
+
+
+.conteiner {
+    width: 90%;
+     margin: 0px auto; 
+    text-align: center;
+}
+
+
+.bg-grey {
+    background-color: #EEEEEE;
+}
+
+
+.kutu-1 {
+    height: 55px;
+    background-color: #7EE5DA;
+    width: 37%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.kutu-2 {
+    height: 68px;
+    background-color: #70CCC2;
+    width: 20%;
+    margin: 0px 2px;
+    font-size: 13px;
+    padding-top: 7px;
+}
+.kutu-3 {
+    height: 75px;
+    background-color: #62B3AA;
+    width: 42%;
+    padding-right: 9px;
+    font-size: 13px;
+}
+
+
+.copyright {
+    font-size: 13px;
+}
+.search-input {
+    width: 300px;
+}
+
+.margin-0 {
+    margin: 0px;
+}
+.margin-bottom-2 {
+    margin-bottom: 2px;
+}
+.float-left {
+    float: left;
+}
